@@ -1,0 +1,7 @@
+﻿  dm1_lab4.cpp
+C:\Users\Akil0515\source\VS_projects\dm1_lab\SRC\dm1_lab4.cpp(25,48): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  dm1_lab.vcxproj -> C:\Users\Akil0515\source\VS_projects\dm1_lab\Debug\dm1_lab.exe
